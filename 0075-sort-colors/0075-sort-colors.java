@@ -5,7 +5,7 @@ class Solution {
         int temp=nums[i+1];
         nums[i+1]=nums[i];
         nums[i]=temp;
-        i=-1;
+        i = 0;
       }
      }
     }
