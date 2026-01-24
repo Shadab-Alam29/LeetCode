@@ -27,7 +27,6 @@ class Solution {
             // }
             // return max;
 
-
         int  ans=0;
         int buy = prices[0];
         for (int i=1;i<prices.length;i++){
