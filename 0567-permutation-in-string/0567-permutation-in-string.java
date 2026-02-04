@@ -10,9 +10,7 @@ class Solution {
                 f2[ch-'a']++;
                 if(i<k-1)continue;
                 if(Arrays.equals(f1,f2))return true;
-                int sin=i-(k-1);
-                char r =s2.charAt(sin);
-                f2[r-'a']--;
+                f2[s2.charAt(i-(k-1))-'a']--;
             }
             return false;
     //     int k = s1.length();
