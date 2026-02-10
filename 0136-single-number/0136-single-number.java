@@ -1,10 +1,16 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int xor =0;
-        for(int i=0;i<nums.length;i++){
-            xor = xor ^ nums[i];
+       HashMap<Integer, Integer> m = new HashMap<>();
+       for(int i : nums){
+        int c= m.getOrDefault(i,0);
+        m.put(i,c+1);
         }
-        return xor;
-    }
+         for (int i : m.keySet())
+         {
+            if(m.get(i)==1)return i; 
+         } 
+         return -1; 
+       }
 }
-        
+
+      
