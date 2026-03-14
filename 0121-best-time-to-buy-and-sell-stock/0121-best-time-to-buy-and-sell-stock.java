@@ -1,5 +1,6 @@
 class Solution {
     public  int  maxProfit(int[] prices) {
+
             // int minPrice=Integer.MAX_VALUE;
             // int maxProfit=0;
             // for(int i=0;i<prices.length;i++){
@@ -27,16 +28,32 @@ class Solution {
             // }
             // return max;
 
-        int  ans=0;
-        int buy = prices[0];
-        for (int i=1;i<prices.length;i++){
-            if(prices[i]<buy){
-                buy=prices[i];
-            }
-            else if (ans < prices[i]-buy){
-                ans=prices[i]-buy;
-            }
+
+
+        // int  ans=0;
+        // int buy = prices[0];
+        // for (int i=1;i<prices.length;i++){
+        //     if(prices[i]<buy){
+        //         buy=prices[i];
+        //     }
+        //     else if (ans < prices[i]-buy){
+        //         ans=prices[i]-buy;
+        //     }
+        // }
+        // return ans;
+        int n = prices.length;
+        int [] best_buy = new int [n];
+        best_buy[0]= prices[0];
+        for(int i = 1 ; i< prices.length;i++){
+             if(best_buy[i-1]<prices[i])best_buy[i]=best_buy[i-1];
+             else best_buy[i]=prices[i];
         }
-        return ans;
+        int currentsum= 0 ;
+        int maxprofit = Integer.MIN_VALUE ;
+        for(int i = 0 ;i < n;i++){
+            currentsum = prices[i]-best_buy[i];
+            maxprofit = Math.max(currentsum,maxprofit);
+        }
+        return maxprofit;
     }
 }
