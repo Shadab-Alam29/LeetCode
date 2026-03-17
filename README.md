@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 | [0010-regular-expression-matching](https://github.com/Shadab-Alam29/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/Shadab-Alam29/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3110-score-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
