@@ -7,7 +7,6 @@ class Solution {
         Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
 
         int[] update= intervals[0];
-      //  ans.add(update);
         for(int i =1 ; i<n ; i++){
             if(update[1]>=intervals[i][0]){
                 update[1] = Math.max(update[1], intervals[i][1]);
