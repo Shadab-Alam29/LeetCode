@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/Shadab-Alam29/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -57,6 +58,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shadab-Alam29/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -74,6 +76,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/Shadab-Alam29/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 ## Bit Manipulation
