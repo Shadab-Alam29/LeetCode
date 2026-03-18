@@ -1,44 +1,33 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int m=nums1.length;
-        int n=nums2.length;
-        return merge(nums1,nums2,m,n);   
-    }
-     static double merge( int larr[],int rarr[],int l,int r){
-        int i=0,j=0,k=0;
-        int q=l+r;
-        int arr[]=new int [q];
-        double x=0.0;
-        while(i<l && j<r){
-            if(larr[i]<=rarr[j]){
-                arr[k]=larr[i];
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        for (int value:nums1)
+            pq.add(value);
+        for (int value:nums2)
+            pq.add(value);
+        int n = pq.size()-1;
+        if(n%2==0){
+            int i =0;
+            while(  i  != n/2){
+                pq.poll();
                 i++;
             }
-            else{
-                arr[k]=rarr[j];
-                j++;
-            }
-            k++;
-        }
-        while(i< l){
-            arr[k]=larr[i];
-            i++;
-            k++;
-        }
-        while(j< r){
-            arr[k]=rarr[j];
-            j++;
-            k++;
-        }
-        if ((q)%2==0){
-        x =((arr[((q)/2)-1]+arr[(q)/2]));
-        x=x/2;
+            return pq.peek();
         }
         else{
-             
-             x= arr[(q)/2];
+            int i = 0 ;
+            double sum  = 0 ;
+            while(i!=n/2){
+                pq.poll();
+                i++;
+            }
+            sum = pq.peek();
+            pq.poll();
+            sum += pq.peek();
+            return sum/2;
+
         }
-        return x;
-     }
+        
+    }
 
 }
