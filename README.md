@@ -42,6 +42,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Shadab-Alam29/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/Shadab-Alam29/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/Shadab-Alam29/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3110-score-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
@@ -128,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shadab-Alam29/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
