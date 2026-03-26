@@ -1,5 +1,6 @@
 class Solution { 
     public boolean isValid(String s) {
+    //LIFO to check the new open has a close 
     Stack<Character> st = new Stack<>();
         int n = s.length();
         for (int i = 0; i < n; i++) {
@@ -10,7 +11,7 @@ class Solution {
             else if ((st.peek() == '[' && ch == ']') || 
                      (st.peek() == '{' && ch == '}') || 
                      (st.peek() == '(' && ch == ')')) {
-                st.pop();
+               st.pop();
             } 
             else {
                 st.push(ch);
