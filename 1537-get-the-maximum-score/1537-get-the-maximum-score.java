@@ -20,10 +20,13 @@ class Solution {
                 s2=0;
             }
         }
+// if nums1 is remaning
+
         while(i<nums1.length){
             s1+=nums1[i++];
-
         }
+// if nums1 is remaning 
+
         while(j<nums2.length){
             s2+=nums2[j++];
         }
