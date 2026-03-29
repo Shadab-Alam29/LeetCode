@@ -15,7 +15,7 @@ class Solution {
         
         int[] ans = new int[res.size()];
         int i = 0;
-        for (int num : result) {
+        for (int num : res) {
             ans[i++] = num;
         }
         
