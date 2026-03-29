@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Shadab-Alam29/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/Shadab-Alam29/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Dynamic Programming
@@ -63,6 +65,7 @@
 | [0027-remove-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 ## Divide and Conquer
@@ -91,6 +94,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Shadab-Alam29/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +117,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/Shadab-Alam29/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
