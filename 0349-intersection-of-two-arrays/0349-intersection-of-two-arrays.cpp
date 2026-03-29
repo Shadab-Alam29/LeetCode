@@ -6,10 +6,10 @@ public:
 
         for (int num : nums2) {
             if (set1.count(num)) {
-                result.insert(num);
+                res.insert(num);
             }
         }
 
-        return vector<int>(result.begin(), result.end());
+        return vector<int>(res.begin(), res.end());
     }
 };
