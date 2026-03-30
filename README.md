@@ -17,6 +17,7 @@
 | [0198-house-robber](https://github.com/Shadab-Alam29/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0561-array-partition](https://github.com/Shadab-Alam29/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/Shadab-Alam29/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -149,9 +150,11 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shadab-Alam29/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Shadab-Alam29/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shadab-Alam29/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shadab-Alam29/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
