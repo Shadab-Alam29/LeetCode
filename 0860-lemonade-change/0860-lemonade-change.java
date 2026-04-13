@@ -1,6 +1,7 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
         int f = 0 , t = 0 ;
+        if ( bills[0]!=5)return false ;
          for(int b : bills){
             if (b == 5){
                 f++;
