@@ -21,6 +21,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shadab-Alam29/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Shadab-Alam29/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -41,6 +42,7 @@
 | [0013-roman-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Dynamic Programming
