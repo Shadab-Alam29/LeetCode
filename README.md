@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shadab-Alam29/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/Shadab-Alam29/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shadab-Alam29/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/Shadab-Alam29/LeetCode/tree/main/0135-candy/) | Hard |
@@ -101,6 +102,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Shadab-Alam29/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Shadab-Alam29/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Shadab-Alam29/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
