@@ -36,6 +36,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/Shadab-Alam29/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -160,6 +161,7 @@
 | [0561-array-partition](https://github.com/Shadab-Alam29/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
