@@ -23,7 +23,7 @@ class Solution {
                 st.push(a / b);
              }
              else {
-                st.push(Integer.parseInt(i));
+               st.push(Integer.valueOf(i));
             }
          }
          return st.pop();
