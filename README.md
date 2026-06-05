@@ -89,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Shadab-Alam29/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0231-power-of-two](https://github.com/Shadab-Alam29/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Shadab-Alam29/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/Shadab-Alam29/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/Shadab-Alam29/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -143,6 +145,7 @@
 | [0067-add-binary](https://github.com/Shadab-Alam29/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Shadab-Alam29/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shadab-Alam29/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
