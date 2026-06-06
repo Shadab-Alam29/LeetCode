@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Shadab-Alam29/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Shadab-Alam29/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shadab-Alam29/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/Shadab-Alam29/LeetCode/tree/main/0135-candy/) | Hard |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -170,6 +172,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/0389-find-the-difference/) | Easy |
