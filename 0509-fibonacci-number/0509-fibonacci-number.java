@@ -2,9 +2,11 @@ class Solution {
     public int fib(int n) {
 
     //    return f(n);
-
+    int dp[] = new int [n+1];
   //  int f( int n){
         if ( n<=1)return n;
+        dp[n]=fib(n-1)+fib(n-2);
+        if ( dp[n]!=0)return dp[n];
         return fib(n-1)+fib(n-2);
     }
    // }
