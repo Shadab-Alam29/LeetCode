@@ -296,6 +296,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Shadab-Alam29/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/Shadab-Alam29/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
