@@ -11,7 +11,7 @@ class Solution {
         List<Integer>copy= new ArrayList<>();
         for ( int i : c)copy.add(i);
         ans.add(copy);
-        //ans.add(new ArrayLis<>(C));
+        //ans.add(new ArrayLis<>(c));
         return;
         }
         for(int i = idx; i<nums.size();i++){
