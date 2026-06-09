@@ -9,9 +9,9 @@ class Solution {
     }
     void fun( List<Integer>nums,List<List<Integer>>ans,List<Integer>p){
     if (nums.size()==0){
-
-        System.out.print(p);
-        ans.add(new ArrayList<>(p));
+        List<Integer>copy= new ArrayList<>();
+        for ( int i : p)copy.add(i);
+        ans.add(copy);
         return;
     }
     for(int i = 0; i<nums.size();i++){
