@@ -7,18 +7,30 @@ class Solution {
         return ans;
     }
     void fun(List<Integer> nums,List<List<Integer>> ans, List<Integer> c, int k , int idx){
-        if ( c.size()==k){
-        List<Integer>copy= new ArrayList<>();
-        for ( int i : c)copy.add(i);
-        ans.add(copy);
-        //ans.add(new ArrayLis<>(c));
-        return;
-        }
-        for(int i = idx; i<nums.size();i++){
-        c.add(nums.get(i));
-        fun(nums,ans,c,k,i+1);
-        c.remove(c.size()-1);
+            if ( c.size()==k){
+                ans.add( new ArrayList<>(c));
+                return ;
+            }
+            if ( idx==nums.size())return;
+            fun( nums,ans,c,k,idx+1);
+            c.add(nums.get(idx));
+            fun(nums,ans,c,k,idx+1);
+            c.remove(c.size()-1);
+        
 
-        }
+
+
+        // if ( c.size()==k){
+        // List<Integer>copy= new ArrayList<>();
+        // for ( int i : c)copy.add(i);
+        // ans.add(copy);
+        // //ans.add(new ArrayLis<>(c));
+        // return;
+        // }
+        // for(int i = idx; i<nums.size();i++){
+        // c.add(nums.get(i));
+        // fun(nums,ans,c,k,i+1);
+        // c.remove(c.size()-1);
+        // }
     }
 }
