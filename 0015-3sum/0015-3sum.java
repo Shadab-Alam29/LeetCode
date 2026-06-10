@@ -1,7 +1,6 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        if (nums.length < 3)
-            return new ArrayList<>();
+       
 
         List<List<Integer>> ans = new ArrayList<>();
 
