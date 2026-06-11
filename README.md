@@ -83,6 +83,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@
 | [0389-find-the-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shadab-Alam29/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3110-score-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 ## Recursion
