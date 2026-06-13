@@ -41,6 +41,7 @@
 | [0739-daily-temperatures](https://github.com/Shadab-Alam29/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0896-monotonic-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0896-monotonic-array/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
@@ -69,6 +70,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1122-relative-sort-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -277,6 +279,7 @@
 | [0076-minimum-window-substring](https://github.com/Shadab-Alam29/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Shadab-Alam29/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shadab-Alam29/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
