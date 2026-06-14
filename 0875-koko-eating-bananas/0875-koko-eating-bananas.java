@@ -18,8 +18,8 @@ class Solution {
     }
     long hours(int[] piles, int k) {
         long sum = 0;
-        for (int pile : piles) {
-            sum += (pile + k - 1) / k; // ceil(pile/k)
+        for (int i : piles) {
+            sum += (i + k - 1) / k;
         }
         return sum;
     }
