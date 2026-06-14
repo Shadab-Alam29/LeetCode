@@ -42,6 +42,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/Shadab-Alam29/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -178,6 +179,7 @@
 | [0162-find-peak-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shadab-Alam29/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shadab-Alam29/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Bit Manipulation
