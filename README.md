@@ -85,6 +85,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Shadab-Alam29/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shadab-Alam29/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Shadab-Alam29/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shadab-Alam29/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Shadab-Alam29/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/0338-counting-bits/) | Easy |
@@ -103,6 +104,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Shadab-Alam29/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/Shadab-Alam29/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Shadab-Alam29/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0072-edit-distance](https://github.com/Shadab-Alam29/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Shadab-Alam29/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0344-reverse-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0344-reverse-string/) | Easy |
