@@ -17,9 +17,11 @@ class MyLinkedList {
     
     public int get(int index) {
     if (index >= size || index < 0) return -1;
-     Node temp=head;
-    for(int i=0;i<index;i++){
-        temp=temp.next;
+    int i = 0;
+    Node temp = head;
+    while (i < index) {
+        temp = temp.next;
+        i++;
     }
     return temp.data;
 }
