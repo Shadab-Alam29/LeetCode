@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shadab-Alam29/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/Shadab-Alam29/LeetCode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/Shadab-Alam29/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -69,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Shadab-Alam29/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Shadab-Alam29/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0149-max-points-on-a-line](https://github.com/Shadab-Alam29/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -163,6 +165,7 @@
 | [0067-add-binary](https://github.com/Shadab-Alam29/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Shadab-Alam29/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/Shadab-Alam29/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Shadab-Alam29/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -353,4 +356,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0707-design-linked-list/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Shadab-Alam29/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 <!---LeetCode Topics End-->
