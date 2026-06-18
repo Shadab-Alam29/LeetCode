@@ -65,6 +65,7 @@
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3637-trionic-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3912-valid-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Shadab-Alam29/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
