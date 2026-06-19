@@ -127,6 +127,7 @@
 | [0072-edit-distance](https://github.com/Shadab-Alam29/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Shadab-Alam29/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Shadab-Alam29/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -185,6 +186,7 @@
 | [0070-climbing-stairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Shadab-Alam29/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Shadab-Alam29/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
