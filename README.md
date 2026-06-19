@@ -138,6 +138,7 @@
 | [1143-longest-common-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shadab-Alam29/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3110-score-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
+| [3340-check-balanced-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
