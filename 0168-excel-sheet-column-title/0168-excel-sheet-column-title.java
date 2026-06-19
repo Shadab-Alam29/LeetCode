@@ -1,7 +1,11 @@
 class Solution {
-  public String convertToTitle(int n) {
-    return n == 0 ? "" : convertToTitle((n - 1) / 26) + (char) ('A' + ((n - 1) % 26));
-  }
+    public String convertToTitle(int columnNumber) {
+        StringBuilder ans = new StringBuilder();
+        while (columnNumber > 0) {
+            columnNumber--;
+            ans.append((char) ('A' + columnNumber % 26));
+            columnNumber /= 26;
+        }
+        return ans.reverse().toString();
+    }
 }
-
-
