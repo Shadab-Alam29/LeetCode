@@ -134,6 +134,7 @@
 | [0389-find-the-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Shadab-Alam29/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0520-detect-capital](https://github.com/Shadab-Alam29/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0796-rotate-string/) | Easy |
