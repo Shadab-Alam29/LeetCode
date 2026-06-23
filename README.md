@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Shadab-Alam29/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Shadab-Alam29/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shadab-Alam29/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -225,6 +226,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Shadab-Alam29/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Shadab-Alam29/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0162-find-peak-element/) | Medium |
