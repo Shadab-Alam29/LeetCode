@@ -1,13 +1,17 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        int max =nums[0];
-        int mi = -1 ;
-        for(int i =0 ; i< nums.length ; i++){
-            if(max <= nums[i]){
-                max = nums[i] ;
-                mi = i ;
+        if(nums.length == 1){
+            return 0;
+        }
+        int max = nums[0];
+        for(int i=0;i<nums.length;i++){
+            max = Math.max(max,nums[i]);
+        }
+        for(int i=0;i<nums.length;i++){
+            if(max == nums[i]){
+                return i;
             }
         }
-        return mi ;
+        return -1;
     }
 }
