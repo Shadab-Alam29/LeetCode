@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Shadab-Alam29/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0697-degree-of-an-array/) | Easy |
+| [0704-binary-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/Shadab-Alam29/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -230,6 +231,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shadab-Alam29/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shadab-Alam29/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
