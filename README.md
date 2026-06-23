@@ -372,6 +372,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Brainteaser
@@ -421,6 +422,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Shadab-Alam29/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -430,6 +432,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Shadab-Alam29/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
