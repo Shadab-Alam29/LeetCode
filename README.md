@@ -89,6 +89,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Shadab-Alam29/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0290-word-pattern](https://github.com/Shadab-Alam29/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/Shadab-Alam29/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -140,6 +141,7 @@
 | [0079-word-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Shadab-Alam29/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0290-word-pattern](https://github.com/Shadab-Alam29/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Shadab-Alam29/LeetCode/tree/main/0383-ransom-note/) | Easy |
