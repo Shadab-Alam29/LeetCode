@@ -162,6 +162,7 @@
 | [1528-shuffle-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [3110-score-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
+| [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
