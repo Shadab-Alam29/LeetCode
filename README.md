@@ -71,6 +71,7 @@
 | [1929-concatenation-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -199,6 +200,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
+| [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -278,6 +280,7 @@
 | [1920-build-array-from-permutation](https://github.com/Shadab-Alam29/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Shadab-Alam29/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Prefix Sum
