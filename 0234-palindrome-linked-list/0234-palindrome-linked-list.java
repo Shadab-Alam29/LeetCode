@@ -9,13 +9,13 @@ class Solution {
             size++;
         }
         int first = 0;
-        int last = size - 1;
-        while (first < last) {
-            if (list.get(first)!=(list.get(last))) {
+        size = size - 1;
+        while (first < size) {
+            if (list.get(first)!=(list.get(size))) {
                 return false;
             }
             first++;
-            last--;
+            size--;
         }
         return true;
         // ListNode slow=head, fast=head;
