@@ -185,6 +185,7 @@
 | [0027-remove-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shadab-Alam29/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -446,6 +447,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shadab-Alam29/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
