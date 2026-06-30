@@ -50,6 +50,7 @@
 | [0704-binary-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/Shadab-Alam29/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0817-linked-list-components](https://github.com/Shadab-Alam29/LeetCode/tree/main/0817-linked-list-components/) | Medium |
 | [0860-lemonade-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0896-monotonic-array/) | Easy |
@@ -105,6 +106,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0817-linked-list-components](https://github.com/Shadab-Alam29/LeetCode/tree/main/0817-linked-list-components/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1122-relative-sort-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -461,6 +463,7 @@
 | [0206-reverse-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0707-design-linked-list/) | Medium |
+| [0817-linked-list-components](https://github.com/Shadab-Alam29/LeetCode/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Design
