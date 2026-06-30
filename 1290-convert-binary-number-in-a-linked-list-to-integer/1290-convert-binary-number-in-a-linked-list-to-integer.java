@@ -8,17 +8,34 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+// class Solution {
+//     public int getDecimalValue(ListNode head) {
+//         String num = "" ; 
+//         if (head.next == null && head.val == 0 )return head.val ;
+        
+//         ListNode temp = head ;
+//         while ( temp != null){
+//             num = num + temp.val;
+//             temp = temp.next;
+//         }
+//         return Integer.parseInt(num, 2);
+
+//     }
+// }
+
+//  without using inbuild function 
+//
 class Solution {
     public int getDecimalValue(ListNode head) {
-        String num = "" ; 
-        if (head.next == null && head.val == 0 )return head.val ;
-        
-        ListNode temp = head ;
-        while ( temp != null){
-            num = num + temp.val;
-            temp = temp.next;
-        }
-        return Integer.parseInt(num, 2);
+        int result =0;
+        while(head != null){
+            result = result *2 + head.val;
 
+            head=head.next;
+        }
+
+        return result;
+        
     }
 }
