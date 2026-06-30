@@ -19,13 +19,15 @@ class Solution {
             temp2.next = new ListNode(temp.val);
             temp2 = temp2.next;
              if (temp.next == null)break;
-                 temp = temp.next.next;
+
+            temp = temp.next.next;
           }
           temp = head.next ;
           while ( temp !=null){
             temp2.next = new ListNode(temp.val);
             temp2 = temp2.next;
              if (temp.next == null)break;
+             
                  temp = temp.next.next;
           }
           
