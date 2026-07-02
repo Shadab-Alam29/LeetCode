@@ -162,6 +162,7 @@
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Shadab-Alam29/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shadab-Alam29/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1528-shuffle-string/) | Easy |
@@ -248,6 +249,7 @@
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shadab-Alam29/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
