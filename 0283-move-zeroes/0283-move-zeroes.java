@@ -3,8 +3,6 @@ class Solution {
         int j=0;
         int i;
         int n=arr.length;
-
-
         for(i=0;i<n;i++){
             if(arr[i]!=0&& arr[j]==0){
                 int temp=arr[i];
@@ -17,7 +15,7 @@ class Solution {
         }
     }
 }
-  /*      for (;j<nums.length;j++){
+ /*      for (;j<nums.length;j++){
             if(nums[j]!=0){
                 int temp=nums[i];
                 nums[i]=nums[j];
