@@ -1,7 +1,7 @@
 class Solution {
     public void moveZeroes(int[] arr) {
         int j=0;
-        int i;
+        int i=0;
         int n=arr.length;
         for(i=0;i<n;i++){
             if(arr[i]!=0&& arr[j]==0){
