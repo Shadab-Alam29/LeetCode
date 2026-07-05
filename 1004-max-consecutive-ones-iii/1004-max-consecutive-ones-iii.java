@@ -1,5 +1,21 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
+
+
+    // int zero=0 , s=0 , max=0;
+    //     for( int e=0 ; e<nums.length;e++){
+    //     if(nums[e]==0) zero++;
+    //         while(zero>k){
+    //             if(nums[s]==0) zero--;
+    //             s++;
+    //         }
+    //         int size=e-s+1;
+    //         max=Math.max(max,size);
+    //       }
+    //       return max;
+
+
+
     // int max =0 ;
     // int start = 0;
     // int fr []= new int[k+2];
@@ -16,6 +32,10 @@ class Solution {
     // }
     // return max;
    
+
+
+    // TLE approch 
+
     int max = Integer.MIN_VALUE;
     for ( int i = 0 ; i < nums.length ; i++){
         int ck = k ;
@@ -34,17 +54,6 @@ class Solution {
     }
     return max ;
     
-    // int zero=0 , s=0 , max=0;
-    //     for( int e=0 ; e<nums.length;e++){
-    //     if(nums[e]==0) zero++;
-    //         while(zero>k){
-    //             if(nums[s]==0) zero--;
-    //             s++;
-    //         }
-    //         int size=e-s+1;
-    //         max=Math.max(max,size);
-    //       }
-    //       return max;
 
         }
     }
