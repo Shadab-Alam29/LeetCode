@@ -86,6 +86,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
@@ -129,6 +130,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Dynamic Programming
@@ -327,6 +329,7 @@
 | [1920-build-array-from-permutation](https://github.com/Shadab-Alam29/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Shadab-Alam29/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -491,6 +494,7 @@
 | [0079-word-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shadab-Alam29/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
