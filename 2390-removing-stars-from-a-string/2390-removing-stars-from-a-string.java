@@ -12,11 +12,20 @@ class Solution {
                 st.push(ch);
             }
         }
-       String k = "" ;
+          StringBuilder k = new StringBuilder();
+
         while (!st.isEmpty()) {
-            k =  st.pop()+k;
-            }
-       return k ;      
+            k.append(st.pop());
+        }
+
+        return k.reverse().toString();
     }
-   
 }
+//        String k = "" ;
+//         while (!st.isEmpty()) {
+//             k =  st.pop() + k;
+//             }
+//        return k ;      
+//     }
+   
+// }
