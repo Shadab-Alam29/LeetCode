@@ -302,6 +302,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Shadab-Alam29/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -575,4 +576,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/Shadab-Alam29/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shadab-Alam29/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shadab-Alam29/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shadab-Alam29/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
