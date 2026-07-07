@@ -15,7 +15,8 @@ class Solution {
                     break;
                 }
                 else {
-                    destroyed = true;                          break;
+                    destroyed = true; 
+                    break;
                 }
             }
             if (!destroyed) {
