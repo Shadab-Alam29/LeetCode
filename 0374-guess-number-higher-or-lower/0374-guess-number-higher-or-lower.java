@@ -18,6 +18,6 @@ public class Solution extends GuessGame {
             else if ( res == -1) right = mid - 1 ;
             else left = mid + 1; 
         }
-        return -1 ;
+        return 0 ;
     }
 }
