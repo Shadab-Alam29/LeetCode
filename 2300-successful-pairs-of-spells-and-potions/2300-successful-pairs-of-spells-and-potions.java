@@ -3,13 +3,12 @@ class Solution {
         int arr []=new int [spells.length];
         Arrays.sort(potions);
         for(int i =0 ;i<spells.length;i++){
-            int c= 0;
             int s =0;
             int end=potions.length-1;
             int idx = -1;
             while(s<=end){
                 int mid =s+(end-s)/2;
-                if(1L*spells[i]*potions[mid]>=success){
+               if ((long) spells[i] * potions[mid] >= success) {
                     idx = mid ;
                     end =mid -1;
                 }
@@ -17,8 +16,8 @@ class Solution {
                     s=mid+1;
                 }
             }
+            int c = 0 ;
             if(idx==-1){
-            c=0;
             arr[i]=c;
             }
             else{
