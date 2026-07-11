@@ -8,7 +8,10 @@ class Solution {
         int p = 0;
         int q = 0;
         while (p < len1) {
-            if (haystack.charAt(p) == needle.charAt(q)) {   
+            if (haystack.charAt(p) == needle.charAt(q)) {
+                if (len2 == 1) {
+                    return p;
+                }
                 p++;
                 q++;
             } else {
