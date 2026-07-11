@@ -128,6 +128,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0697-degree-of-an-array/) | Easy |
+| [0763-partition-labels](https://github.com/Shadab-Alam29/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0817-linked-list-components](https://github.com/Shadab-Alam29/LeetCode/tree/main/0817-linked-list-components/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -194,6 +195,7 @@
 | [0520-detect-capital](https://github.com/Shadab-Alam29/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/Shadab-Alam29/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Shadab-Alam29/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Shadab-Alam29/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -253,6 +255,7 @@
 | [0455-assign-cookies](https://github.com/Shadab-Alam29/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/Shadab-Alam29/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shadab-Alam29/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -408,6 +411,7 @@
 | [0561-array-partition](https://github.com/Shadab-Alam29/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/Shadab-Alam29/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Shadab-Alam29/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
