@@ -1,6 +1,5 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-   
         int len1 = haystack.length();
         int len2 = needle.length();
         int p = 0;
@@ -10,7 +9,7 @@ class Solution {
                 p++;
                 q++;
             } else {
-                p -= q - 1;
+                p = p - (q - 1);
                 q = 0;
             }
 
