@@ -301,6 +301,7 @@
 | [0319-bulb-switcher](https://github.com/Shadab-Alam29/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0441-arranging-coins](https://github.com/Shadab-Alam29/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
@@ -325,6 +326,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Shadab-Alam29/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/Shadab-Alam29/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
