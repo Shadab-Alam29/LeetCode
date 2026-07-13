@@ -74,6 +74,7 @@
 | [1122-relative-sort-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shadab-Alam29/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/Shadab-Alam29/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shadab-Alam29/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -365,6 +366,7 @@
 | [0067-add-binary](https://github.com/Shadab-Alam29/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0735-asteroid-collision](https://github.com/Shadab-Alam29/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shadab-Alam29/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/Shadab-Alam29/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Shadab-Alam29/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
