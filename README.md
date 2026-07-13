@@ -257,6 +257,7 @@
 | [0443-string-compression](https://github.com/Shadab-Alam29/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/Shadab-Alam29/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Shadab-Alam29/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shadab-Alam29/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -305,6 +306,7 @@
 | [0441-arranging-coins](https://github.com/Shadab-Alam29/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -330,6 +332,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Shadab-Alam29/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Shadab-Alam29/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shadab-Alam29/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
