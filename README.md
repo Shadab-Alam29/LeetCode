@@ -103,6 +103,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3637-trionic-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
@@ -150,6 +151,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Dynamic Programming
