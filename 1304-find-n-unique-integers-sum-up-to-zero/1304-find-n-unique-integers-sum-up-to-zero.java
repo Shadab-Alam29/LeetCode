@@ -6,7 +6,7 @@ class Solution {
             ans[index++] = i;
             ans[index++] = -i;
         }
-        if (n % 2 == 1)
+        if (n % 2 != 0)
             ans[index] = 0;
 
         return ans;
