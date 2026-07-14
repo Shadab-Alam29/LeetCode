@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/Shadab-Alam29/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -161,6 +162,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shadab-Alam29/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Shadab-Alam29/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -537,6 +539,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shadab-Alam29/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0322-coin-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Brainteaser
