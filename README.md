@@ -77,6 +77,7 @@
 | [1122-relative-sort-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shadab-Alam29/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shadab-Alam29/LeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shadab-Alam29/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Shadab-Alam29/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
