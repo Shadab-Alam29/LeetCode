@@ -136,6 +136,7 @@
 | [0149-max-points-on-a-line](https://github.com/Shadab-Alam29/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shadab-Alam29/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Shadab-Alam29/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Shadab-Alam29/LeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -183,6 +184,7 @@
 | [0072-edit-distance](https://github.com/Shadab-Alam29/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shadab-Alam29/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Shadab-Alam29/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0264-ugly-number-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/0338-counting-bits/) | Easy |
@@ -335,6 +337,7 @@
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Shadab-Alam29/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0319-bulb-switcher](https://github.com/Shadab-Alam29/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -516,6 +519,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0264-ugly-number-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
