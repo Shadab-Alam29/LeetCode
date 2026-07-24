@@ -121,6 +121,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3637-trionic-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -366,6 +367,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Shadab-Alam29/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Shadab-Alam29/LeetCode/tree/main/2652-sum-multiples/) | Easy |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shadab-Alam29/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
@@ -411,6 +413,7 @@
 | [1720-decode-xored-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -737,4 +740,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 <!---LeetCode Topics End-->
