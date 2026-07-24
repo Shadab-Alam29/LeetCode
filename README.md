@@ -366,6 +366,7 @@
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Shadab-Alam29/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2652-sum-multiples](https://github.com/Shadab-Alam29/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shadab-Alam29/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
