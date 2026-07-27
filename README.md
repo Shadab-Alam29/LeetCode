@@ -95,6 +95,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shadab-Alam29/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shadab-Alam29/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -484,6 +485,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shadab-Alam29/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -550,6 +552,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
