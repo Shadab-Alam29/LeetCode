@@ -7,7 +7,7 @@ class Solution {
                 max2 = max1 ;
                 max1 = X ;
             }
-            else if ( X >=max2) max2 = X;
+            else if ( X >=max2 ) max2 = X;
         }
         return ((max1-1)*(max2-1));
     }
