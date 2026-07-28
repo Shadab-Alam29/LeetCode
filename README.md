@@ -632,6 +632,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Shadab-Alam29/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shadab-Alam29/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0547-number-of-provinces](https://github.com/Shadab-Alam29/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -641,6 +642,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Shadab-Alam29/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0547-number-of-provinces](https://github.com/Shadab-Alam29/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -651,6 +653,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/Shadab-Alam29/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -757,4 +760,8 @@
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Shadab-Alam29/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
