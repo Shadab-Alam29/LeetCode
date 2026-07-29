@@ -7,13 +7,19 @@ class Solution {
         return image;
     }
     static void dfs(int[][] image , int i , int j , int org , int col){
+
         if (i < 0 || i >= image.length || j < 0 || j >= image[0].length)  return;
         
-        if (image[i][j] != org)  return;
-        image[i][j] = col;
-        dfs(image,i+1, j, org, col);
-        dfs(image,i-1, j, org, col);
-        dfs(image,i, j+1, org, col);
-        dfs(image,i, j-1, org, col);
+        if (image[i][j] == org){
+            image[i][j] = col;
+
+            dfs(image,i+1, j, org, col);
+            dfs(image,i-1, j, org, col);
+            dfs(image,i, j+1, org, col);
+            dfs(image,i, j-1, org, col);
+
+        }
+        
+        else return ;
     }
 }
