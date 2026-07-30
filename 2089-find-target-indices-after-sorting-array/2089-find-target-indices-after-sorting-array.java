@@ -6,6 +6,6 @@ class Solution {
             if(nums[i]> target) break ;
             if(nums[i] == target) ans.add(i);
         }
-        return ans ;
+        return ans;
     }
 }
