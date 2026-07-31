@@ -13,7 +13,10 @@ class Solution {
     }
     static int fun(int i, int j, List<List<Integer>> arr, int n, List<List<Integer>> dp) {
 
-        if(i == n - 1)  return arr.get(i).get(j);
+      if(i == n - 1) {
+    dp.get(i).set(j, arr.get(i).get(j));
+    return dp.get(i).get(j);
+}
         if(dp.get(i).get(j) != Integer.MAX_VALUE)  return dp.get(i).get(j);
 
         int down =  fun(i + 1, j, arr, n, dp);
