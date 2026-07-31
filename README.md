@@ -56,6 +56,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shadab-Alam29/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Shadab-Alam29/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0495-teemo-attacking](https://github.com/Shadab-Alam29/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0525-contiguous-array/) | Medium |
@@ -454,6 +455,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Shadab-Alam29/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0495-teemo-attacking](https://github.com/Shadab-Alam29/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0735-asteroid-collision](https://github.com/Shadab-Alam29/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shadab-Alam29/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Shadab-Alam29/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
