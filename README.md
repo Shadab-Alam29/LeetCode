@@ -24,6 +24,7 @@
 | [0075-sort-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0120-triangle](https://github.com/Shadab-Alam29/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shadab-Alam29/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Shadab-Alam29/LeetCode/tree/main/0135-candy/) | Hard |
@@ -207,6 +208,7 @@
 | [0064-minimum-path-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Shadab-Alam29/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0120-triangle](https://github.com/Shadab-Alam29/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shadab-Alam29/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Shadab-Alam29/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
