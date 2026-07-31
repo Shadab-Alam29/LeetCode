@@ -16,10 +16,10 @@ class Solution {
         if(i == n - 1)  return arr.get(i).get(j);
         if(dp.get(i).get(j) != Integer.MAX_VALUE)  return dp.get(i).get(j);
 
-        int down =  fun(i + 1, j, arr, n, dp);
-        int diagonal =  fun(i + 1, j + 1, arr, n, dp);
+        int down =  arr.get(i).get(j) + fun(i + 1, j, arr, n, dp);
+        int diagonal =  arr.get(i).get(j) + fun(i + 1, j + 1, arr, n, dp);
 
-        int ans =  arr.get(i).get(j) + Math.min(down, diagonal);
+        int ans = Math.min(down, diagonal);
         dp.get(i).set(j, ans);
         return ans ;
     }
