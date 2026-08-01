@@ -386,6 +386,7 @@
 | [0231-power-of-two](https://github.com/Shadab-Alam29/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0292-nim-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Shadab-Alam29/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -699,6 +700,7 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Shadab-Alam29/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Union-Find
@@ -826,5 +828,6 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Shadab-Alam29/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
