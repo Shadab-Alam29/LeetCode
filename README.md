@@ -56,6 +56,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shadab-Alam29/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Shadab-Alam29/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0486-predict-the-winner](https://github.com/Shadab-Alam29/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0495-teemo-attacking](https://github.com/Shadab-Alam29/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -224,6 +225,7 @@
 | [0392-is-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0486-predict-the-winner](https://github.com/Shadab-Alam29/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -299,6 +301,7 @@
 | [0231-power-of-two](https://github.com/Shadab-Alam29/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0486-predict-the-winner](https://github.com/Shadab-Alam29/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Two Pointers
@@ -385,6 +388,7 @@
 | [0326-power-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0441-arranging-coins](https://github.com/Shadab-Alam29/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0486-predict-the-winner](https://github.com/Shadab-Alam29/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -814,4 +818,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Shadab-Alam29/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Shadab-Alam29/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
