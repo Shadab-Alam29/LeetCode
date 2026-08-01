@@ -1,22 +1,22 @@
 class Solution {
     public int numFriendRequests(int[] ages) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int age : ages) {
-            if (map.containsKey(age)) 
-                map.put(age, map.get(age) + 1);
-            else 
-                map.put(age, 1);  
+        int[] users = new int[121];
+        for (int i : ages) {
+            users[i]++;
         }
-        int ans = 0 ;
-        for( int i :map.keySet() ){
-           for (int j : map.keySet()){
-            if ( j <= i * 0.5 +7) continue;
-            if( j > i )continue ;
-            if( j > 100 && i < 100)continue ;
-            ans += map.get(i) * map.get(j);
-            if ( i == j) ans -= map.get(i);
-           } 
+        int req = 0;
+        for (int i = 1; i < users.length; i++) {
+            if (users[i] == 0) continue;
+
+            for (int j = 1; j < users.length; j++) {
+                if (users[j] == 0) continue;
+                if (j <= 0.5 * i + 7) continue;
+                if (j > i) continue;
+
+                req += users[i] * users[j];
+                if (i == j) req -= users[i];
+            }
         }
-        return ans ;
+        return req;
     }
 }
