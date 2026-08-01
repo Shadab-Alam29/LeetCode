@@ -78,6 +78,7 @@
 | [0817-linked-list-components](https://github.com/Shadab-Alam29/LeetCode/tree/main/0817-linked-list-components/) | Medium |
 | [0819-most-common-word](https://github.com/Shadab-Alam29/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Shadab-Alam29/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Shadab-Alam29/LeetCode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0846-hand-of-straights](https://github.com/Shadab-Alam29/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -339,6 +340,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Shadab-Alam29/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/Shadab-Alam29/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Shadab-Alam29/LeetCode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shadab-Alam29/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -432,6 +434,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Shadab-Alam29/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Shadab-Alam29/LeetCode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shadab-Alam29/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shadab-Alam29/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -519,6 +522,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Shadab-Alam29/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Shadab-Alam29/LeetCode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0846-hand-of-straights](https://github.com/Shadab-Alam29/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -557,6 +561,7 @@
 | [0605-can-place-flowers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Shadab-Alam29/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Shadab-Alam29/LeetCode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0846-hand-of-straights](https://github.com/Shadab-Alam29/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
