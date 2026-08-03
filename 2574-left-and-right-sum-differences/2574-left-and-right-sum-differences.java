@@ -2,9 +2,6 @@ class Solution {
     public int[] leftRightDifference(int[] nums) {
         int arrL[] = new int[nums.length];
         int arrR[] = new int[nums.length];
-        int l = 0 ;
-        int r = 0 ;
-
         arrL[0] = 0;
         for( int i = 1 ; i <nums.length ;i++){
             arrL[i] = arrL[i - 1] + nums[i - 1];
