@@ -103,6 +103,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shadab-Alam29/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shadab-Alam29/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Shadab-Alam29/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -193,6 +194,7 @@
 | [1122-relative-sort-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shadab-Alam29/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -543,6 +545,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shadab-Alam29/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -598,6 +601,7 @@
 | [0819-most-common-word](https://github.com/Shadab-Alam29/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [1051-height-checker](https://github.com/Shadab-Alam29/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
