@@ -139,6 +139,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Shadab-Alam29/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -205,6 +206,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
+| [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -363,6 +365,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -457,6 +460,7 @@
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Shadab-Alam29/LeetCode/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
