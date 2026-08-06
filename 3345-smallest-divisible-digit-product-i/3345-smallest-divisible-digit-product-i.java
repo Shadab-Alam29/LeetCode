@@ -7,8 +7,7 @@ class Solution {
             p = p * (x % 10);
             x /= 10;
         }
-        if (p % t == 0)
-            return n;
+        if (p % t == 0) return n;
             n++;
         }
     }
