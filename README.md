@@ -424,6 +424,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2652-sum-multiples](https://github.com/Shadab-Alam29/LeetCode/tree/main/2652-sum-multiples/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shadab-Alam29/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -837,6 +838,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Graph Theory
