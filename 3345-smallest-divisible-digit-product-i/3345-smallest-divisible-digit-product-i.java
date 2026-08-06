@@ -4,7 +4,7 @@ class Solution {
             int p = 1;
             int x = n;
         while (x > 0) {
-            p *= x % 10;
+            p = p * (x % 10);
             x /= 10;
         }
         if (p % t == 0)
