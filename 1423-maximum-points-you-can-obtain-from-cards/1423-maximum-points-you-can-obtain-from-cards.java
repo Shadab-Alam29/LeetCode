@@ -2,7 +2,7 @@ class Solution {
     public int maxScore(int[] nums, int k) {
         int n = nums.length;
         int total = 0;
-
+        
         for (int x : nums)
             total += x;
         int window = n - k;
