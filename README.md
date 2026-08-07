@@ -705,6 +705,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/Shadab-Alam29/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Shadab-Alam29/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -797,6 +798,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Shadab-Alam29/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -811,6 +813,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Shadab-Alam29/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shadab-Alam29/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
