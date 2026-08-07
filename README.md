@@ -107,6 +107,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Shadab-Alam29/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shadab-Alam29/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shadab-Alam29/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -515,6 +516,7 @@
 | [0724-find-pivot-index](https://github.com/Shadab-Alam29/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Shadab-Alam29/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shadab-Alam29/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Shadab-Alam29/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -690,6 +692,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shadab-Alam29/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shadab-Alam29/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shadab-Alam29/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Shadab-Alam29/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
