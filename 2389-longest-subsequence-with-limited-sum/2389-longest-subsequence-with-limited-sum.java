@@ -16,8 +16,8 @@ class Solution {
                 else {
                      end = mid - 1;
                 } 
-                 ans[i] = start;
             }
+            ans[i] = start;
           }
           return ans ;
     }
