@@ -142,6 +142,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -477,6 +478,7 @@
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Shadab-Alam29/LeetCode/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -535,6 +537,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Shadab-Alam29/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Shadab-Alam29/LeetCode/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Shadab-Alam29/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -577,6 +580,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -612,6 +616,7 @@
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Counting Sort
