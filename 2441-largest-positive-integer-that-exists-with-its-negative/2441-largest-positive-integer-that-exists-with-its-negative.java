@@ -6,7 +6,7 @@ class Solution {
         }
         int ans = -1;
      for (int i : nums) {
-            if (i > 0 && set.contains(-i)) {
+            if (set.contains(-i)) {
                 ans = Math.max(ans, i);
             }
         }
