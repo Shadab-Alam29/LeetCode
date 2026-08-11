@@ -502,6 +502,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0461-hamming-distance](https://github.com/Shadab-Alam29/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shadab-Alam29/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
