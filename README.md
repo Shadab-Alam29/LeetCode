@@ -343,6 +343,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Shadab-Alam29/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/Shadab-Alam29/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Shadab-Alam29/LeetCode/tree/main/0050-powx-n/) | Medium |
@@ -423,6 +424,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Shadab-Alam29/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Shadab-Alam29/LeetCode/tree/main/0062-unique-paths/) | Medium |
@@ -832,6 +834,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Shadab-Alam29/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
