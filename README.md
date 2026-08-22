@@ -476,6 +476,7 @@
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Shadab-Alam29/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Shadab-Alam29/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2652-sum-multiples](https://github.com/Shadab-Alam29/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -586,6 +587,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Shadab-Alam29/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Shadab-Alam29/LeetCode/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Shadab-Alam29/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
