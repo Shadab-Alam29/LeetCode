@@ -161,6 +161,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -417,6 +418,7 @@
 | [2465-number-of-distinct-averages](https://github.com/Shadab-Alam29/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
@@ -523,6 +525,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -638,6 +641,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shadab-Alam29/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Shadab-Alam29/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
