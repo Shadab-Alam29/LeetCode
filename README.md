@@ -336,6 +336,7 @@
 | [1768-merge-strings-alternately](https://github.com/Shadab-Alam29/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shadab-Alam29/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -476,6 +477,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Shadab-Alam29/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2235-add-two-integers/) | Easy |
@@ -675,6 +677,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -956,6 +959,7 @@
 | [0486-predict-the-winner](https://github.com/Shadab-Alam29/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/Shadab-Alam29/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
