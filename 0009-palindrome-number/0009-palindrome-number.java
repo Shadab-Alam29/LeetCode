@@ -5,7 +5,7 @@ class Solution {
         }
         long check=0;
         int n = x;
-        while(n>0){                 //x>0
+        while(n>0){               
             int last = n%10;
             check = check*10+last;
             n=n/10;
