@@ -340,6 +340,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
@@ -484,6 +485,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2235-add-two-integers/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Shadab-Alam29/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Shadab-Alam29/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
@@ -789,6 +791,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shadab-Alam29/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Shadab-Alam29/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Monotonic Queue
