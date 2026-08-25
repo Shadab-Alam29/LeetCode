@@ -461,6 +461,7 @@
 | [0365-water-and-jug-problem](https://github.com/Shadab-Alam29/LeetCode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0441-arranging-coins](https://github.com/Shadab-Alam29/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Shadab-Alam29/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0507-perfect-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
