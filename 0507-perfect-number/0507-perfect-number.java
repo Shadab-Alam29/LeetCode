@@ -4,10 +4,12 @@ class Solution {
             return false;
         }
         int sum = 1;
-        for (int i = 2; i <= num / 2; i++) {
+        int i = 2 ;
+        while(i <= num/2) {
             if (num % i == 0) {
                 sum += i;
             }
+            i++;
         }
         return sum == num;
     }
