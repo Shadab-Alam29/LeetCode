@@ -1,22 +1,24 @@
 class Solution {
-  public boolean isHappy(int n) {
-    int slow = squaredSum(n);
-    int fast = squaredSum(squaredSum(n));
+    int sum(int n) {
+        int currSum = 0;
+        int digits;
 
-    while (slow != fast) {
-      slow = squaredSum(slow);
-      fast = squaredSum(squaredSum(fast));
+        while (n > 0) {
+            digits = n % 10;
+            currSum += digits * digits;
+            n = n / 10;
+        }
+
+        return currSum;
     }
+    public boolean isHappy(int n) {
+        HashSet<Integer> set = new HashSet<>();
 
-    return slow == 1;
-  }
+        while (n != 1 && !set.contains(n)) {
+            set.add(n);
+            n = sum(n);
+        }
 
-  private int squaredSum(int n) {
-    int sum = 0;
-    while (n > 0) {
-      sum += Math.pow(n % 10, 2);
-      n /= 10;
+        return n == 1;
     }
-    return sum;
-  }
 }
