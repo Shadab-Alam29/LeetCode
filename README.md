@@ -982,4 +982,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
