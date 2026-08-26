@@ -345,6 +345,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Shadab-Alam29/LeetCode/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
@@ -795,6 +796,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Shadab-Alam29/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Monotonic Queue
