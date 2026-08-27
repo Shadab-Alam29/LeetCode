@@ -250,6 +250,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Dynamic Programming
@@ -352,6 +353,7 @@
 | [3340-check-balanced-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -695,6 +697,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -720,6 +723,7 @@
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -959,6 +963,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
