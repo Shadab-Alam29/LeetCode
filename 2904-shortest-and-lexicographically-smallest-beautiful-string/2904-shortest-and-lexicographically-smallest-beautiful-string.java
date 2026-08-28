@@ -1,38 +1,36 @@
+import java.util.*;
+
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
-        int n = s.length();
-        int left = 0;
-        int ones = 0;
-        String ans = "";
+        ArrayList<String> list = new ArrayList<>();
 
-        for (int right = 0; right < n; right++) {
+        for (int i = 0; i < s.length(); i++) {
+            int ones = 0;
 
-            if (s.charAt(right) == '1') {
-                ones++;
-            }
+            for (int j = i; j < s.length(); j++) {
 
-            while (ones > k) {
-                if (s.charAt(left) == '1') {
-                    ones--;
+                if (s.charAt(j) == '1') {
+                    ones++;
                 }
-                left++;
-            }
 
-            while (ones == k && s.charAt(left) == '0') {
-                left++;
-            }
+                if (ones == k) {
+                    list.add(s.substring(i, j + 1));
+                }
 
-            if (ones == k) {
-                String curr = s.substring(left, right + 1);
-
-                if (ans.equals("") ||
-                    curr.length() < ans.length() ||
-                    (curr.length() == ans.length() && curr.compareTo(ans) < 0)) {
-                    ans = curr;
+                if (ones > k) {
+                    break;
                 }
             }
         }
-
-        return ans;
+        if (list.isEmpty()) {
+            return "";
+        }
+        Collections.sort(list, (a, b) -> {
+            if (a.length() != b.length()) {
+                return Integer.compare(a.length(), b.length());
+            }
+            return a.compareTo(b);
+        });
+        return list.get(0);
     }
 }
