@@ -355,6 +355,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3798-largest-even-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/3798-largest-even-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
