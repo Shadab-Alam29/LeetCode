@@ -1,8 +1,9 @@
+import java.math.BigInteger;
 import java.util.*;
 
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
-        ArrayList<String> list = new ArrayList<>();
+        ArrayList<BigInteger> list = new ArrayList<>();
 
         for (int i = 0; i < s.length(); i++) {
             int ones = 0;
@@ -14,7 +15,8 @@ class Solution {
                 }
 
                 if (ones == k) {
-                    list.add(s.substring(i, j + 1));
+                    String sub = s.substring(i, j + 1);
+                    list.add(new BigInteger(sub));
                 }
 
                 if (ones > k) {
@@ -22,15 +24,13 @@ class Solution {
                 }
             }
         }
+
         if (list.isEmpty()) {
             return "";
         }
-        Collections.sort(list, (a, b) -> {
-            if (a.length() != b.length()) {
-                return Integer.compare(a.length(), b.length());
-            }
-            return a.compareTo(b);
-        });
-        return list.get(0);
+
+        Collections.sort(list);
+
+        return list.get(0).toString();
     }
 }
