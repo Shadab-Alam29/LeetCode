@@ -498,6 +498,7 @@
 | [2413-smallest-even-multiple](https://github.com/Shadab-Alam29/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Shadab-Alam29/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Shadab-Alam29/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
@@ -699,6 +700,7 @@
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
