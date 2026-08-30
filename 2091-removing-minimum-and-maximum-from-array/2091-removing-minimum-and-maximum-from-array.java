@@ -15,12 +15,10 @@ class Solution {
         }
        }
        int n = nums.length;
-
-        int a = Math.max(i, j) + 1;
-        int b = n - Math.min(i, j);
-        int c = Math.min(i, j) + 1 + n - Math.max(i, j);
-
-        return Math.min(a, Math.min(b, c));
+       int a = Math.max(i, j) + 1;
+       int b = n - Math.min(i, j);
+       int c = Math.min(i, j) + 1 + n - Math.max(i, j);
+       return Math.min(a, Math.min(b, c));
 
     }
 }
