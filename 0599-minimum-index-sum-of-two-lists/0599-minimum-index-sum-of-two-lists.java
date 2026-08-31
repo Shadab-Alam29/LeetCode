@@ -6,7 +6,6 @@ class Solution {
         }
         int min = Integer.MAX_VALUE;
         ArrayList<String> ans = new ArrayList<>();
-
         for (int i = 0; i < list2.length; i++) {
             if (map.containsKey(list2[i])) {
                 int sum = i + map.get(list2[i]);
