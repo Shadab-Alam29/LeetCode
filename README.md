@@ -160,6 +160,7 @@
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Shadab-Alam29/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2644-find-the-maximum-divisibility-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
