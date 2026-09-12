@@ -9,7 +9,7 @@ class Solution {
            if (ch == 'I')arr[i++] = d++;
             else arr[i++] = l--;
         }
-         arr[i] = d;
+         arr[i] = l;
         return arr ;
     }
 }
