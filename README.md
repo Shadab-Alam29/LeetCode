@@ -92,6 +92,7 @@
 | [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
+| [0942-di-string-match](https://github.com/Shadab-Alam29/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Shadab-Alam29/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Shadab-Alam29/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
@@ -349,6 +350,7 @@
 | [0819-most-common-word](https://github.com/Shadab-Alam29/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Shadab-Alam29/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0925-long-pressed-name](https://github.com/Shadab-Alam29/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
+| [0942-di-string-match](https://github.com/Shadab-Alam29/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -434,6 +436,7 @@
 | [0881-boats-to-save-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0925-long-pressed-name](https://github.com/Shadab-Alam29/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
+| [0942-di-string-match](https://github.com/Shadab-Alam29/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Shadab-Alam29/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shadab-Alam29/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -717,6 +720,7 @@
 | [0846-hand-of-straights](https://github.com/Shadab-Alam29/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Shadab-Alam29/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0942-di-string-match](https://github.com/Shadab-Alam29/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Shadab-Alam29/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
