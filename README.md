@@ -168,6 +168,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Shadab-Alam29/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -586,6 +587,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Shadab-Alam29/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shadab-Alam29/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
