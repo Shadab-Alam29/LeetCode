@@ -525,6 +525,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Shadab-Alam29/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Shadab-Alam29/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Shadab-Alam29/LeetCode/tree/main/2652-sum-multiples/) | Easy |
