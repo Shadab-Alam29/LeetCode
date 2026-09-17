@@ -528,6 +528,7 @@
 | [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2235-add-two-integers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Shadab-Alam29/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -746,6 +747,7 @@
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
