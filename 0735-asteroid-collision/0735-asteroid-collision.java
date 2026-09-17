@@ -1,25 +1,23 @@
-import java.util.*;
-
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         Stack<Integer> st = new Stack<>();
         for (int a : asteroids) {
-            boolean destroyed = false;
+            boolean destroyed = true;
             while (!st.isEmpty() && a < 0 && st.peek() > 0) {
                 if (st.peek() < -a) {
                     st.pop();              
                 }
                 else if (st.peek() == -a) {
                     st.pop();             
-                    destroyed = true;
+                    destroyed = false;
                     break;
                 }
                 else {
-                    destroyed = true; 
+                    destroyed = false; 
                     break;
                 }
             }
-            if (!destroyed) {
+            if (destroyed) {
                 st.push(a);
             }
         }
