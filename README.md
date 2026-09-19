@@ -149,6 +149,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-two-out-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
+| [2057-smallest-index-with-equal-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
