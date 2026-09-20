@@ -506,6 +506,7 @@
 | [0189-rotate-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Shadab-Alam29/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0292-nim-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/0292-nim-game/) | Easy |
@@ -626,6 +627,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Shadab-Alam29/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0495-teemo-attacking](https://github.com/Shadab-Alam29/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0682-baseball-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Shadab-Alam29/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
@@ -1033,6 +1035,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Shadab-Alam29/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shadab-Alam29/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
