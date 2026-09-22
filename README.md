@@ -141,6 +141,7 @@
 | [1720-decode-xored-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Shadab-Alam29/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Shadab-Alam29/LeetCode/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -771,6 +772,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
