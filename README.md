@@ -263,6 +263,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shadab-Alam29/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1399-count-largest-group](https://github.com/Shadab-Alam29/LeetCode/tree/main/1399-count-largest-group/) | Easy |
 | [1436-destination-city](https://github.com/Shadab-Alam29/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1496-path-crossing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1496-path-crossing/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -543,6 +544,7 @@
 | [1323-maximum-69-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shadab-Alam29/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1399-count-largest-group](https://github.com/Shadab-Alam29/LeetCode/tree/main/1399-count-largest-group/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1563-stone-game-v](https://github.com/Shadab-Alam29/LeetCode/tree/main/1563-stone-game-v/) | Hard |
@@ -805,6 +807,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Shadab-Alam29/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1399-count-largest-group](https://github.com/Shadab-Alam29/LeetCode/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
