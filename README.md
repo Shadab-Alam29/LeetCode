@@ -126,6 +126,7 @@
 | [1470-shuffle-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shadab-Alam29/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shadab-Alam29/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1528-shuffle-string/) | Easy |
@@ -722,6 +723,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shadab-Alam29/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
