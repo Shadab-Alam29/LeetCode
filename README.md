@@ -198,6 +198,7 @@
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shadab-Alam29/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3637-trionic-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shadab-Alam29/LeetCode/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
@@ -571,6 +572,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shadab-Alam29/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shadab-Alam29/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shadab-Alam29/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
