@@ -581,6 +581,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -801,6 +802,7 @@
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
