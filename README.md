@@ -84,6 +84,7 @@
 | [0733-flood-fill](https://github.com/Shadab-Alam29/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/Shadab-Alam29/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shadab-Alam29/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Shadab-Alam29/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0817-linked-list-components](https://github.com/Shadab-Alam29/LeetCode/tree/main/0817-linked-list-components/) | Medium |
 | [0819-most-common-word](https://github.com/Shadab-Alam29/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Shadab-Alam29/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
@@ -713,6 +714,7 @@
 | [0561-array-partition](https://github.com/Shadab-Alam29/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Shadab-Alam29/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Shadab-Alam29/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Shadab-Alam29/LeetCode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0846-hand-of-straights](https://github.com/Shadab-Alam29/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
