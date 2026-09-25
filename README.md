@@ -188,6 +188,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2865-beautiful-towers-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2865-beautiful-towers-i/) | Medium |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -495,6 +496,7 @@
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
