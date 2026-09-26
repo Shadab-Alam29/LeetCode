@@ -564,6 +564,7 @@
 | [1399-count-largest-group](https://github.com/Shadab-Alam29/LeetCode/tree/main/1399-count-largest-group/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shadab-Alam29/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1563-stone-game-v](https://github.com/Shadab-Alam29/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Shadab-Alam29/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
