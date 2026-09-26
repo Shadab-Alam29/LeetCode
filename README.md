@@ -567,6 +567,7 @@
 | [1563-stone-game-v](https://github.com/Shadab-Alam29/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Shadab-Alam29/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1837-sum-of-digits-in-base-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
