@@ -1,16 +1,16 @@
 class Solution {
     public int minDeletion(int[] nums) {
         int c = 0;
-        int check = 0; // fir odd index 
+        int check = 2; // fir even index 
         for (int i = 1; i < nums.length; i++) {
             if (check % 2 == 0) {
                 if (nums[i] == nums[i - 1]) {
                     c++;
                 } else {
-                    check++;
+                    check=1;
                 }
             } else {
-                check++;
+                check=2;
             }
         }
 
