@@ -162,6 +162,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -286,6 +287,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shadab-Alam29/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2032-two-out-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -439,6 +441,7 @@
 | [0326-power-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/Shadab-Alam29/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -753,6 +756,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shadab-Alam29/LeetCode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -1105,6 +1109,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Shadab-Alam29/LeetCode/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
