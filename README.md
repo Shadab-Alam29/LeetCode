@@ -136,6 +136,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1563-stone-game-v](https://github.com/Shadab-Alam29/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shadab-Alam29/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Shadab-Alam29/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -628,6 +629,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shadab-Alam29/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shadab-Alam29/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Shadab-Alam29/LeetCode/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -748,6 +750,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shadab-Alam29/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shadab-Alam29/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Shadab-Alam29/LeetCode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
