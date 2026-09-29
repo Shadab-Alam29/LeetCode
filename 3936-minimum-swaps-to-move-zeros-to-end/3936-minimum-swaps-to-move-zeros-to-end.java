@@ -4,7 +4,7 @@ class Solution {
         int j = nums.length - 1;
         int c = 0;
 
-        while (i < j) {
+        while (i <= j) {
             if (nums[i] == 0 && nums[j] != 0) {
                 int temp = nums[i];
                 nums[i] = nums[j];
