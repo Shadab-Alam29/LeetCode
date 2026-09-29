@@ -127,6 +127,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shadab-Alam29/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shadab-Alam29/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -284,6 +285,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Shadab-Alam29/LeetCode/tree/main/1399-count-largest-group/) | Easy |
 | [1436-destination-city](https://github.com/Shadab-Alam29/LeetCode/tree/main/1436-destination-city/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1496-path-crossing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1496-path-crossing/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -761,6 +763,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shadab-Alam29/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shadab-Alam29/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shadab-Alam29/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -822,6 +825,7 @@
 | [0954-array-of-doubled-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shadab-Alam29/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Shadab-Alam29/LeetCode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -867,6 +871,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Shadab-Alam29/LeetCode/tree/main/1399-count-largest-group/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
