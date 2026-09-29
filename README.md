@@ -229,6 +229,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Shadab-Alam29/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shadab-Alam29/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3978-unique-middle-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3978-unique-middle-element/) | Easy |
 ## Hash Table
@@ -514,6 +515,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shadab-Alam29/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
