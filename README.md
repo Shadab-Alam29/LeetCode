@@ -1201,4 +1201,12 @@
 | [1148-article-views-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/Shadab-Alam29/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shadab-Alam29/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shadab-Alam29/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shadab-Alam29/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
