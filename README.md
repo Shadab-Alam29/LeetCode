@@ -239,6 +239,7 @@
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shadab-Alam29/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 | [3978-unique-middle-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3978-unique-middle-element/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shadab-Alam29/LeetCode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3987-minimum-total-cost-to-process-all-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -621,6 +622,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shadab-Alam29/LeetCode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3987-minimum-total-cost-to-process-all-elements/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Binary Search
