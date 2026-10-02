@@ -110,6 +110,7 @@
 | [1184-distance-between-bus-stops](https://github.com/Shadab-Alam29/LeetCode/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Shadab-Alam29/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shadab-Alam29/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -581,6 +582,7 @@
 | [0877-stone-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Shadab-Alam29/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shadab-Alam29/LeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -843,6 +845,7 @@
 | [0948-bag-of-tokens](https://github.com/Shadab-Alam29/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Shadab-Alam29/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1323-maximum-69-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shadab-Alam29/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
