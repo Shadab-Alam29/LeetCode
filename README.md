@@ -95,6 +95,7 @@
 | [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Shadab-Alam29/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0896-monotonic-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -285,6 +286,7 @@
 | [0817-linked-list-components](https://github.com/Shadab-Alam29/LeetCode/tree/main/0817-linked-list-components/) | Medium |
 | [0819-most-common-word](https://github.com/Shadab-Alam29/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0846-hand-of-straights](https://github.com/Shadab-Alam29/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Shadab-Alam29/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1122-relative-sort-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
@@ -654,6 +656,7 @@
 | [0825-friends-of-appropriate-ages](https://github.com/Shadab-Alam29/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Shadab-Alam29/LeetCode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Shadab-Alam29/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Shadab-Alam29/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Shadab-Alam29/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shadab-Alam29/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shadab-Alam29/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -776,6 +779,7 @@
 | [0826-most-profit-assigning-work](https://github.com/Shadab-Alam29/LeetCode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0846-hand-of-straights](https://github.com/Shadab-Alam29/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Shadab-Alam29/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Shadab-Alam29/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
