@@ -243,6 +243,7 @@
 | [3978-unique-middle-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3978-unique-middle-element/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shadab-Alam29/LeetCode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3987-minimum-total-cost-to-process-all-elements/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +335,7 @@
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -727,6 +729,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Shadab-Alam29/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3987-minimum-total-cost-to-process-all-elements/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -821,6 +824,7 @@
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -916,6 +920,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3978-unique-middle-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3978-unique-middle-element/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -934,6 +939,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shadab-Alam29/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shadab-Alam29/LeetCode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1234,4 +1240,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shadab-Alam29/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
