@@ -223,6 +223,7 @@
 | [3452-sum-of-good-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/Shadab-Alam29/LeetCode/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shadab-Alam29/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3637-trionic-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
