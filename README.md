@@ -219,6 +219,7 @@
 | [3206-alternating-groups-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -828,6 +829,7 @@
 | [2974-minimum-number-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -892,6 +894,7 @@
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
