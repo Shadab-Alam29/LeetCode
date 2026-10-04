@@ -15,7 +15,7 @@ class Solution {
             if (st == mx) {
                 ans += nums[i];
             }
-        }
+        } 
         return ans;
     }
     static int help(int n){
