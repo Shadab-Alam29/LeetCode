@@ -171,6 +171,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -315,6 +316,7 @@
 | [2032-two-out-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
@@ -924,6 +926,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
