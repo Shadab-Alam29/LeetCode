@@ -207,6 +207,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2865-beautiful-towers-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2865-beautiful-towers-i/) | Medium |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2951-find-the-peaks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -767,6 +768,7 @@
 | [2485-find-the-pivot-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Shadab-Alam29/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
