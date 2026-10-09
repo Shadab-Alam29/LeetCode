@@ -172,6 +172,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shadab-Alam29/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -828,6 +829,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shadab-Alam29/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shadab-Alam29/LeetCode/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shadab-Alam29/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
@@ -896,6 +898,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shadab-Alam29/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Shadab-Alam29/LeetCode/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shadab-Alam29/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
