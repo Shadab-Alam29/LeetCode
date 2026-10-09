@@ -438,6 +438,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shadab-Alam29/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1496-path-crossing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1496-path-crossing/) | Easy |
 | [1528-shuffle-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1528-shuffle-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Shadab-Alam29/LeetCode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -881,6 +882,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shadab-Alam29/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Shadab-Alam29/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Shadab-Alam29/LeetCode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
@@ -992,6 +994,7 @@
 | [0844-backspace-string-compare](https://github.com/Shadab-Alam29/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Shadab-Alam29/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shadab-Alam29/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Shadab-Alam29/LeetCode/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
@@ -1270,6 +1273,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shadab-Alam29/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
