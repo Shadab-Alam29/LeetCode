@@ -7,7 +7,7 @@ class Solution {
         for ( int i : nums){
             total +=i ;
         }
-        for( int i = 0 ; i < nums.length-1 ; i++ ){
+        for( int i = 0 ; i <= nums.length-2 ; i++ ){
                 total = total-nums[i];
                 int check = total/(n-i-1);
                 if (check < nums[i])c++;
