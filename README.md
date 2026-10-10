@@ -437,6 +437,7 @@
 | [1143-longest-common-subsequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Shadab-Alam29/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1436-destination-city](https://github.com/Shadab-Alam29/LeetCode/tree/main/1436-destination-city/) | Easy |
+| [1446-consecutive-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shadab-Alam29/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1496-path-crossing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1496-path-crossing/) | Easy |
 | [1528-shuffle-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1528-shuffle-string/) | Easy |
