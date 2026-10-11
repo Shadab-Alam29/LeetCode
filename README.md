@@ -640,6 +640,7 @@
 | [2485-find-the-pivot-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Shadab-Alam29/LeetCode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [2591-distribute-money-to-maximum-children](https://github.com/Shadab-Alam29/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Shadab-Alam29/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -915,6 +916,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [2591-distribute-money-to-maximum-children](https://github.com/Shadab-Alam29/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
