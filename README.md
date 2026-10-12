@@ -167,6 +167,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-two-out-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shadab-Alam29/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -835,6 +836,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shadab-Alam29/LeetCode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shadab-Alam29/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -905,6 +907,7 @@
 | [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1946-largest-number-after-mutating-substring](https://github.com/Shadab-Alam29/LeetCode/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shadab-Alam29/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
@@ -954,6 +957,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Shadab-Alam29/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shadab-Alam29/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
