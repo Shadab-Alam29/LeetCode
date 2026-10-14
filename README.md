@@ -259,6 +259,7 @@
 | [3978-unique-middle-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3978-unique-middle-element/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shadab-Alam29/LeetCode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3987-minimum-total-cost-to-process-all-elements/) | Medium |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -356,6 +357,7 @@
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
