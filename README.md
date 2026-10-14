@@ -241,6 +241,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shadab-Alam29/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Shadab-Alam29/LeetCode/tree/main/3833-count-dominant-indices/) | Easy |
@@ -861,6 +862,7 @@
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -930,6 +932,7 @@
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Counting Sort
