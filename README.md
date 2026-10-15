@@ -214,6 +214,7 @@
 | [2865-beautiful-towers-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2865-beautiful-towers-i/) | Medium |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2951-find-the-peaks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -340,6 +341,7 @@
 | [2465-number-of-distinct-averages](https://github.com/Shadab-Alam29/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -1317,4 +1319,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
