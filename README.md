@@ -208,6 +208,7 @@
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -1242,6 +1243,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Shadab-Alam29/LeetCode/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
