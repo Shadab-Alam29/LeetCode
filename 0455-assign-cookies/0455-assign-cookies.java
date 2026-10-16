@@ -10,11 +10,9 @@ class Solution {
             i++;
             j++;
         }
-        else{
-            j++;
+        else  j++;
         }
-    }
-
+    return count ;   
     //  for(int i = 0 ; i< g.length;i++){
     //     for(int j = 0 ; j<s.length; j++){
     //         if(s[j]>=g[i]){
@@ -24,6 +22,5 @@ class Solution {
     //         }
     //     }
     //  }
-     return count ;   
     }
 }
