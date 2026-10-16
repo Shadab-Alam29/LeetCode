@@ -1329,4 +1329,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Shadab-Alam29/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
