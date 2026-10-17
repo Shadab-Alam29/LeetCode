@@ -229,6 +229,7 @@
 | [3206-alternating-groups-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -350,6 +351,7 @@
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Shadab-Alam29/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shadab-Alam29/LeetCode/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
