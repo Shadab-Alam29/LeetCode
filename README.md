@@ -140,6 +140,7 @@
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shadab-Alam29/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1528-shuffle-string/) | Easy |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Shadab-Alam29/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -753,6 +754,7 @@
 | [0946-validate-stack-sequences](https://github.com/Shadab-Alam29/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Shadab-Alam29/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Shadab-Alam29/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shadab-Alam29/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Shadab-Alam29/LeetCode/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Shadab-Alam29/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
