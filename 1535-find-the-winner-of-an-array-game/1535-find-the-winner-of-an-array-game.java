@@ -8,24 +8,21 @@ class Solution {
             return max;
         }
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int first = arr[0];
-        int[] arr1 = new int[arr.length];
-        int size = 0;
+      int first = arr[0];
+        int count = 0;
 
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] > first) {
-                arr1[size++] = first;
                 first = arr[i];
-                map.put(first, 1);
+                count = 1;
             } else {
-                arr1[size++] = arr[i];
-                map.put(first, map.getOrDefault(first, 0) + 1);
+                count++;
             }
 
-            if (map.get(first) == k) {
+            if (count == k) {
                 return first;
             }
+        
         }
 
         return first;
