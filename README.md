@@ -217,6 +217,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2865-beautiful-towers-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2865-beautiful-towers-i/) | Medium |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -348,6 +349,7 @@
 | [2465-number-of-distinct-averages](https://github.com/Shadab-Alam29/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -739,6 +741,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Shadab-Alam29/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
