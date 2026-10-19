@@ -247,6 +247,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/Shadab-Alam29/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shadab-Alam29/LeetCode/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shadab-Alam29/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -364,6 +365,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Shadab-Alam29/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shadab-Alam29/LeetCode/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -888,6 +890,7 @@
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -956,6 +959,7 @@
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
