@@ -669,6 +669,7 @@
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3270-find-the-key-of-the-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shadab-Alam29/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -747,6 +748,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Shadab-Alam29/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shadab-Alam29/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
