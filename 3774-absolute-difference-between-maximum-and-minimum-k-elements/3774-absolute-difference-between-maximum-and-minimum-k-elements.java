@@ -7,6 +7,6 @@ class Solution {
             kmin += nums[i];
             kmax += nums[nums.length-i-1];
         }
-        return (kmax - kmin) ;
+        return Math.abs(kmax - kmin) ;
     }
 }
