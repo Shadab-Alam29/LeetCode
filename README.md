@@ -265,6 +265,7 @@
 | [3866-first-unique-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Shadab-Alam29/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -1282,6 +1283,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Shadab-Alam29/LeetCode/tree/main/3833-count-dominant-indices/) | Easy |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
