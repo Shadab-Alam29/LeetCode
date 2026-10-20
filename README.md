@@ -166,6 +166,7 @@
 | [1946-largest-number-after-mutating-substring](https://github.com/Shadab-Alam29/LeetCode/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shadab-Alam29/LeetCode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
@@ -340,6 +341,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Shadab-Alam29/LeetCode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shadab-Alam29/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -998,6 +1000,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Shadab-Alam29/LeetCode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Shadab-Alam29/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shadab-Alam29/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
