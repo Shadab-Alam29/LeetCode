@@ -256,6 +256,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Shadab-Alam29/LeetCode/tree/main/3833-count-dominant-indices/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -895,6 +896,7 @@
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
