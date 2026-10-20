@@ -367,6 +367,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Shadab-Alam29/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shadab-Alam29/LeetCode/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
@@ -493,6 +494,7 @@
 | [3110-score-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3340-check-balanced-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -1005,6 +1007,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Shadab-Alam29/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
