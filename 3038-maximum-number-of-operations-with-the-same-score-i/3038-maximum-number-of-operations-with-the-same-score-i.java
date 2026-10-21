@@ -6,10 +6,9 @@ class Solution {
             if (nums[i] + nums[i + 1] == sum) {
                 ans++;
             } else {
-                break;
+                return ans ;
             }
         }
-
         return ans;
     }
 }
