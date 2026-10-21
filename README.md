@@ -207,6 +207,7 @@
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Shadab-Alam29/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
@@ -891,6 +892,7 @@
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shadab-Alam29/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Shadab-Alam29/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -962,6 +964,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shadab-Alam29/LeetCode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2591-distribute-money-to-maximum-children](https://github.com/Shadab-Alam29/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
