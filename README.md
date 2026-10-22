@@ -1387,6 +1387,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/Shadab-Alam29/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -1396,4 +1397,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Shadab-Alam29/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
