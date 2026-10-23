@@ -181,6 +181,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shadab-Alam29/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
@@ -893,6 +894,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shadab-Alam29/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shadab-Alam29/LeetCode/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shadab-Alam29/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
@@ -1019,6 +1021,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shadab-Alam29/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
