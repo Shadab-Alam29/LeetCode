@@ -240,6 +240,7 @@
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3208-alternating-groups-ii/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
@@ -686,6 +687,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3270-find-the-key-of-the-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
