@@ -387,6 +387,7 @@
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3866-first-unique-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Dynamic Programming
@@ -697,6 +698,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shadab-Alam29/LeetCode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3987-minimum-total-cost-to-process-all-elements/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
