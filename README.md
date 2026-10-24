@@ -239,6 +239,7 @@
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3208-alternating-groups-ii/) | Medium |
@@ -374,6 +375,7 @@
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
