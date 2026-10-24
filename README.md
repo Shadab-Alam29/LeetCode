@@ -268,6 +268,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3833-count-dominant-indices](https://github.com/Shadab-Alam29/LeetCode/tree/main/3833-count-dominant-indices/) | Easy |
@@ -618,6 +619,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -753,6 +755,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -929,6 +932,7 @@
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -1075,6 +1079,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
