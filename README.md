@@ -185,6 +185,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shadab-Alam29/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
