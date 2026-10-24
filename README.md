@@ -712,6 +712,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3908-valid-digit-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Shadab-Alam29/LeetCode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3987-minimum-total-cost-to-process-all-elements/) | Medium |
