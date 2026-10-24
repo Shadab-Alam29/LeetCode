@@ -157,6 +157,7 @@
 | [1720-decode-xored-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Shadab-Alam29/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Shadab-Alam29/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -667,6 +668,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Shadab-Alam29/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Shadab-Alam29/LeetCode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
