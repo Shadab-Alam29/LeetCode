@@ -2,7 +2,7 @@ class Solution {
     public String makeGood(String s) {
         Stack<Character>st = new Stack<>();
         for( char ch : s.toCharArray()){
-             if ( !st.isEmpty() && Character.toLowerCase(ch) == Character.toLowerCase(st.peek()) && ch != st.peek()){
+            if ( !st.isEmpty() && Character.toLowerCase(ch) == Character.toLowerCase(st.peek()) && ch != st.peek()){
                 st.pop();
             }
             else {
