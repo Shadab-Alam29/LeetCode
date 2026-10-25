@@ -243,6 +243,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3164-find-the-number-of-good-pairs-ii/) | Medium |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Shadab-Alam29/LeetCode/tree/main/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3208-alternating-groups-ii/) | Medium |
@@ -823,6 +824,7 @@
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3174-clear-digits/) | Easy |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Shadab-Alam29/LeetCode/tree/main/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
