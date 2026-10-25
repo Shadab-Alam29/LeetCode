@@ -253,6 +253,7 @@
 | [3452-sum-of-good-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Shadab-Alam29/LeetCode/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shadab-Alam29/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -756,6 +757,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -820,6 +822,7 @@
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3174-clear-digits/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -1390,6 +1393,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -1407,6 +1411,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
