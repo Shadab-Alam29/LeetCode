@@ -348,6 +348,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1496-path-crossing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1496-path-crossing/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Shadab-Alam29/LeetCode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -496,6 +497,7 @@
 | [1528-shuffle-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shadab-Alam29/LeetCode/tree/main/1544-make-the-string-great/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Shadab-Alam29/LeetCode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
