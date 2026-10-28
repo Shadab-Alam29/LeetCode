@@ -4,13 +4,12 @@ class Solution {
         int give = 1;
         int ans[] = new int[num_people];
         while (candies > 0) {
-            i = i % num_people;
+            i = (give - 1)% num_people;
             int current = Math.min(candies, give);
             ans[i] += current;
             candies -= current;
-
             give++;
-            i++;
+            
         }
 
         return ans;
