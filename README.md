@@ -237,6 +237,7 @@
 | [2974-minimum-number-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Shadab-Alam29/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -936,6 +937,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -1334,6 +1336,7 @@
 | [2427-number-of-common-factors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
