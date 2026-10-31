@@ -246,6 +246,7 @@
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3164-find-the-number-of-good-pairs-ii/) | Medium |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Shadab-Alam29/LeetCode/tree/main/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/Shadab-Alam29/LeetCode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
@@ -706,6 +707,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
