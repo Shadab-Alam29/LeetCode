@@ -186,6 +186,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2187-minimum-time-to-complete-trips](https://github.com/Shadab-Alam29/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -764,6 +765,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shadab-Alam29/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Shadab-Alam29/LeetCode/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2187-minimum-time-to-complete-trips](https://github.com/Shadab-Alam29/LeetCode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shadab-Alam29/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shadab-Alam29/LeetCode/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
