@@ -697,6 +697,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Shadab-Alam29/LeetCode/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -825,6 +826,7 @@
 | [1929-concatenation-of-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2293-min-max-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2293-min-max-game/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shadab-Alam29/LeetCode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
