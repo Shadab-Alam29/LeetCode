@@ -282,6 +282,7 @@
 | [3833-count-dominant-indices](https://github.com/Shadab-Alam29/LeetCode/tree/main/3833-count-dominant-indices/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Shadab-Alam29/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Shadab-Alam29/LeetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -406,6 +407,7 @@
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Shadab-Alam29/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
@@ -1079,6 +1081,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Shadab-Alam29/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3978-unique-middle-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/3978-unique-middle-element/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
