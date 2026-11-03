@@ -274,6 +274,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shadab-Alam29/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -728,6 +729,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shadab-Alam29/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Shadab-Alam29/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3908-valid-digit-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/3908-valid-digit-number/) | Easy |
