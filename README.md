@@ -204,6 +204,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shadab-Alam29/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -377,6 +378,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shadab-Alam29/LeetCode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shadab-Alam29/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Shadab-Alam29/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -1072,6 +1074,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
