@@ -140,6 +140,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shadab-Alam29/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shadab-Alam29/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shadab-Alam29/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1528-shuffle-string/) | Easy |
@@ -922,6 +923,7 @@
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Shadab-Alam29/LeetCode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shadab-Alam29/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shadab-Alam29/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shadab-Alam29/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Shadab-Alam29/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shadab-Alam29/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
