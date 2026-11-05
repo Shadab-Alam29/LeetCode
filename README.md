@@ -220,6 +220,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Shadab-Alam29/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
@@ -881,6 +882,7 @@
 | [2485-find-the-pivot-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Shadab-Alam29/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Shadab-Alam29/LeetCode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
