@@ -12,7 +12,6 @@ class Solution {
 
     static int BinarySearch(int t, int arr[], int s, int l) {
         int ans = -1;
-
         while (s <= l) {
             int mid = s + (l - s) / 2;
 
