@@ -394,6 +394,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3164-find-the-number-of-good-pairs-ii/) | Medium |
@@ -530,6 +531,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3340-check-balanced-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
