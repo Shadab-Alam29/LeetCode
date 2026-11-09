@@ -389,6 +389,7 @@
 | [2465-number-of-distinct-averages](https://github.com/Shadab-Alam29/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Shadab-Alam29/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -727,6 +728,7 @@
 | [2591-distribute-money-to-maximum-children](https://github.com/Shadab-Alam29/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Shadab-Alam29/LeetCode/tree/main/2652-sum-multiples/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Shadab-Alam29/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shadab-Alam29/LeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shadab-Alam29/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
