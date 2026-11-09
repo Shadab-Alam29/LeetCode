@@ -687,6 +687,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0670-maximum-swap](https://github.com/Shadab-Alam29/LeetCode/tree/main/0670-maximum-swap/) | Medium |
+| [0728-self-dividing-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shadab-Alam29/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
