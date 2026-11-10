@@ -267,6 +267,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Shadab-Alam29/LeetCode/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shadab-Alam29/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3637-trionic-array-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
@@ -738,6 +739,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3516-find-closest-person](https://github.com/Shadab-Alam29/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
