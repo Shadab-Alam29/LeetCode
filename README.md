@@ -527,6 +527,7 @@
 | [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1946-largest-number-after-mutating-substring](https://github.com/Shadab-Alam29/LeetCode/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Shadab-Alam29/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -1040,6 +1041,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shadab-Alam29/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Shadab-Alam29/LeetCode/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Shadab-Alam29/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Shadab-Alam29/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shadab-Alam29/LeetCode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -1377,6 +1379,7 @@
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Shadab-Alam29/LeetCode/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Shadab-Alam29/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Shadab-Alam29/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
