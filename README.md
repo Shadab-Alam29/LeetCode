@@ -386,6 +386,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shadab-Alam29/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Shadab-Alam29/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/Shadab-Alam29/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -533,6 +534,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/Shadab-Alam29/LeetCode/tree/main/2418-sort-the-people/) | Easy |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Shadab-Alam29/LeetCode/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -1099,6 +1101,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
