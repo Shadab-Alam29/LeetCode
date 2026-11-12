@@ -1,43 +1,39 @@
 class Solution {
-    int placeCows(int stalls[],int d){
-        int c=1;
-        int p=stalls[0];
-        for(int i = 1 ; i < stalls.length ; i++ ){
-            if(stalls[i]-p >= d){
-                c++;
-                p=stalls[i];
+    int canPlaceBalls(int position[], int minDistance) {
+        int count = 1;
+        int lastPosition = position[0];
+ 
+        for (int i = 1; i < position.length; i++) {
+            if (position[i] - lastPosition >= minDistance) {
+                count++;
+                lastPosition = position[i];
             }
         }
-        return c ;
+        return count;
     }
 
-    public int maxDistance(int[] stalls, int k ) {
-        int ans =-1;
-        Arrays.sort(stalls);
-        int n = stalls.length;
-        int max = stalls[n-1]-stalls[0];
-        int start =1;
-        int end = stalls[n-1];
-        while(start <=end){
-            int mid = start +(end -start)/2;
-            int c = placeCows(stalls ,mid);
-            if(c>=k){
+    public int maxDistance(int[] position, int m) {
+        int ans = -1;
+
+        Arrays.sort(position);
+
+        int n = position.length;
+        int start = 1;
+        
+        int end = position[n - 1];
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            int count = canPlaceBalls(position, mid);
+
+            if (count >= m) {
                 ans = mid;
-                start=mid+1;
-            }
-            else{
-                end = mid -1;
+                start = mid + 1;
+            } else {
+                end = mid - 1;
             }
         }
-        return ans ;
-        // for(int d =1 ; d<=max;d++){
-        //     int c =placeCows(stalls,d);
-        //     if(c >= k){
-        //         ans=d;
-        //     }
-        //     else break;
-        // }
-        // return ans;
-        
+
+        return ans;
     }
 }
