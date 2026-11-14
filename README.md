@@ -280,6 +280,7 @@
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Shadab-Alam29/LeetCode/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shadab-Alam29/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -880,6 +881,7 @@
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Shadab-Alam29/LeetCode/tree/main/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Shadab-Alam29/LeetCode/tree/main/3921-score-validator/) | Easy |
