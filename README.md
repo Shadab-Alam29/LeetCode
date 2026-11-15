@@ -643,6 +643,7 @@
 | [2592-maximize-greatness-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Shadab-Alam29/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shadab-Alam29/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
