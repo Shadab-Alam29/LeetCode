@@ -534,6 +534,7 @@
 | [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1946-largest-number-after-mutating-substring](https://github.com/Shadab-Alam29/LeetCode/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Shadab-Alam29/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shadab-Alam29/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Shadab-Alam29/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -868,6 +869,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shadab-Alam29/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2293-min-max-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2293-min-max-game/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Shadab-Alam29/LeetCode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
