@@ -376,6 +376,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Shadab-Alam29/LeetCode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shadab-Alam29/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shadab-Alam29/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/Shadab-Alam29/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
@@ -531,6 +532,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shadab-Alam29/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Shadab-Alam29/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shadab-Alam29/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shadab-Alam29/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -1107,6 +1109,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Shadab-Alam29/LeetCode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shadab-Alam29/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Shadab-Alam29/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shadab-Alam29/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
