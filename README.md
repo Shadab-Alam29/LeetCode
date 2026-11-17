@@ -156,6 +156,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shadab-Alam29/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Shadab-Alam29/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shadab-Alam29/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
@@ -527,6 +528,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Shadab-Alam29/LeetCode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Shadab-Alam29/LeetCode/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shadab-Alam29/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shadab-Alam29/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shadab-Alam29/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Shadab-Alam29/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shadab-Alam29/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
