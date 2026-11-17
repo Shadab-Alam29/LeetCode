@@ -11,15 +11,11 @@ class Solution {
         }
         return count;
     }
-
     public int maxDistance(int[] position, int m) {
         int ans = -1;
-
         Arrays.sort(position);
-
         int n = position.length;
         int start = 1;
-        
         int end = position[n - 1];
 
         while (start <= end) {
@@ -33,7 +29,6 @@ class Solution {
                 end = mid - 1;
             }
         }
-
         return ans;
     }
 }
