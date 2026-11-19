@@ -109,6 +109,7 @@
 | [0946-validate-stack-sequences](https://github.com/Shadab-Alam29/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Shadab-Alam29/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Shadab-Alam29/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shadab-Alam29/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/Shadab-Alam29/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -357,6 +358,7 @@
 | [0888-fair-candy-swap](https://github.com/Shadab-Alam29/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shadab-Alam29/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Shadab-Alam29/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Shadab-Alam29/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Shadab-Alam29/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -1532,4 +1534,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->
