@@ -269,6 +269,7 @@
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shadab-Alam29/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shadab-Alam29/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -923,6 +924,7 @@
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shadab-Alam29/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
