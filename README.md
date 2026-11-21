@@ -246,6 +246,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2951-find-the-peaks](https://github.com/Shadab-Alam29/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Shadab-Alam29/LeetCode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shadab-Alam29/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shadab-Alam29/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -1004,6 +1005,7 @@
 | [2592-maximize-greatness-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shadab-Alam29/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Shadab-Alam29/LeetCode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [2974-minimum-number-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -1084,6 +1086,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shadab-Alam29/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Shadab-Alam29/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Shadab-Alam29/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Shadab-Alam29/LeetCode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/Shadab-Alam29/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
