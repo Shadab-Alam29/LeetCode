@@ -169,6 +169,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shadab-Alam29/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Shadab-Alam29/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Shadab-Alam29/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shadab-Alam29/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shadab-Alam29/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Shadab-Alam29/LeetCode/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
