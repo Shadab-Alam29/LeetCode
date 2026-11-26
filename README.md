@@ -760,6 +760,7 @@
 | [3270-find-the-key-of-the-numbers](https://github.com/Shadab-Alam29/LeetCode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shadab-Alam29/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -893,6 +894,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shadab-Alam29/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Shadab-Alam29/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Shadab-Alam29/LeetCode/tree/main/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
+| [3360-stone-removal-game](https://github.com/Shadab-Alam29/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Shadab-Alam29/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shadab-Alam29/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shadab-Alam29/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
